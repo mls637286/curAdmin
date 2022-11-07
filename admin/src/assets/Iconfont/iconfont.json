@@ -1,0 +1,37 @@
+{
+  "id": "3724770",
+  "name": "cur",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "807275",
+      "name": "全屏",
+      "font_class": "quanping",
+      "unicode": "e660",
+      "unicode_decimal": 58976
+    },
+    {
+      "icon_id": "1727477",
+      "name": "237拍照",
+      "font_class": "paizhao",
+      "unicode": "e8d1",
+      "unicode_decimal": 59601
+    },
+    {
+      "icon_id": "4236623",
+      "name": "静音",
+      "font_class": "jingyin",
+      "unicode": "e606",
+      "unicode_decimal": 58886
+    },
+    {
+      "icon_id": "16388176",
+      "name": "暂停",
+      "font_class": "zanting",
+      "unicode": "e60b",
+      "unicode_decimal": 58891
+    }
+  ]
+}
